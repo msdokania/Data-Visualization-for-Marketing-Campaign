@@ -1,2 +1,3 @@
 # Data-Visualization-for-Marketing-Campaign
-Visualizing demographic data in order to identify patterns and trends, and determine factors that influence the salary of an individual, to help create marketing campaigns based on the information.
+
+The aim of this project is to visualize demographic data using Python libraries, to identify patterns and trends, and factors which influence an individual’s salary, in order to create marketing profiles for potential customers. Data visualizations plot the key attributes.
